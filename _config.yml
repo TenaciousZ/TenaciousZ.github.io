@@ -4,13 +4,13 @@
 baseurl:
 
 # Site live URL
-url: http://kuanghy.github.io
+url: http://TenaciousZ.github.io
 
 # Localhost
 # url: http://127.0.0.1:4000
 
 # Production URL for sitemap
-production_url: http://kuanghy.github.io
+production_url: http://TenaciousZ.github.io
 
 # Harmony theme configuration. Please change accordingly.
 harmony:
@@ -44,7 +44,7 @@ harmony:
   social_zh:
     email: sudohuoty@163.com
     weibo: loveqing2013
-    github: kuanghy
+    github: TenaciousZ
     qq:
     wechat:
     rss: /feed
